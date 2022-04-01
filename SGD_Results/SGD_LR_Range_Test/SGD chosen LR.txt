@@ -1,0 +1,12 @@
+SGD
+
+On observation the location of the least negative gradient was found to be at Step **2.578k** with a value of **1.343**. When comparing this to the LR/train graph we find that the value of the learning rate was **0.000012583** at this step.
+
+The Loss/train curve, we see that the lowest loss was at Step **8.461k** with a value of **0.0062158**. When comparing this to the LR/train graph we find that the value of the learning rate was **0.00406** at this step.
+
+1. LR = 0.002622 (Step: 1.344k)
+2. LR = 0.0043489 (Step: 1.421k)
+3. LR = 0.01227 (Step: 1.597k)
+4. LR = 0.05776 (Step: 1.86k)
+5. LR = 0.3422 (Step: 2.162k)
+
